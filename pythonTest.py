@@ -2,4 +2,6 @@
 #HELLO WORLD! 출력
 sentance = "HELLO WORLD!"
 test = "hello,"
+print(test)
 print(test+sentance)
+print(sentance)
