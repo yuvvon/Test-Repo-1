@@ -1,6 +1,7 @@
 # 201903302 정찬혁 컴퓨터전자시스템공학부
 #HELLO WORLD! 출력
 #서브계정에서 수정
+#수정이 될까요?????
 sentance = "HELLO WORLD!"
 test = "hello,"
 print(test)
