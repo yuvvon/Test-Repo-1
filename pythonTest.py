@@ -6,3 +6,4 @@ test = "hello,"
 print(test)
 print(test+sentance)
 print(sentance)
+#파일 수정한다.#
