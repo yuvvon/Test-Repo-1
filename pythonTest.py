@@ -7,7 +7,7 @@
 #같은 줄 수정
 
 sentance = "HELLO WORLD!"
-test = "hello,"
+test = "HELLO WORLD!"
 print(test)
 print(test+sentance)
 print(sentance)
