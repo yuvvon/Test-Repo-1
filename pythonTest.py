@@ -8,7 +8,7 @@
 
 sentance = "HELLO WORLD!"
 test = "HELLO WORLD!"
-print(test)
+print(test.lower())
 print(test+sentance)
 print(sentance)
 #파일 수정한다.#
