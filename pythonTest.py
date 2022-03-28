@@ -12,3 +12,4 @@ print(test.lower())
 print(test+sentance)
 print(sentance)
 #파일 수정한다.#
+print("Hi! nice to meet you:)")
