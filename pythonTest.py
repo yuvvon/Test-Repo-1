@@ -5,7 +5,7 @@
 
 #수정이 될까요?????
 #같은 줄 수정
-
+print("Python practice")
 sentance = "HELLO WORLD!"
 test = "HELLO WORLD!"
 print(test.lower())
