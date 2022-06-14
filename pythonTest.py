@@ -11,6 +11,6 @@ test = "HELLO WORLD!"
 print(test.lower())
 print(test+sentance)
 print(sentance)
-#파일 수정한다.#
+#파일 수정한다.
 print("This is pull-request practice:)")
 print("Hi! nice to meet you:)")
